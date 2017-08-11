@@ -1,0 +1,28 @@
+Mark Arakaki
+April 16, 2017
+The Witcher: Lost in Time User Guide
+
+Installation:
+        To install The Witcher: Lost in Time you need to first obtain the .lisp file. To do this please contact Mark Arakaki (marka2) through GitHub. After obtaining the .lisp file you need to compile the code. After compiling you need to load the file so that you can interact with the executable. After compiling and loading the file you type in (start-game) into the listener and execute that command. This should begin the game and give you background on what you objective is.
+
+Starting the Game:
+* When you start the game type “(game-repl)”. This will allow you to write commands without parentheses and apostrophes.
+* After you type “(game-repl)”, type in “start-game” to begin the game
+
+Commands:
+List of Commands:
+* look, walk, pickup, inventory, inspect-item, armorStatus, coinBalance, combine, open-map, review-clues, buyArmor, sell, help, h, ?
+
+
+Events:
+        On your journey throughout the Northern Realms you will pick up random items that can be sold for profit. This is extremely helpful in your journey to the end game. While you are in wealthy and modern towns such as Oxenfurt and Novigrad you can sell your items to the local shopkeeper for coin. Different items will be bought by shopkeepers for various amounts of coin. You can then travel to the Oxenfurt Armory where you can purchase armor. You can buy different Witcher Armor with different stats that will help you in your journey to the end game. 
+
+Basic Tips Regarding Strategy:
+
+* Try to visit as many locations and possible 
+* Pickup all possible items
+* Make as much coin as possible
+* Buy a lot of armor
+* Follow your clues that you pick up
+* You will need important items from random locations to reach the endgame and not following clues may lead you astray
+* If you need any help on what to do next always use the help command! Don’t be afraid to use it as much as you need it!
